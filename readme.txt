@@ -1,3 +1,9 @@
+Instalacion 
+Clonar Repositorio
+npm install
+node src/app.js
+
+
 Documentación de Uso de las API
 Esta documentación describe las rutas disponibles para manejar productos utilizando las API definidas.
 
